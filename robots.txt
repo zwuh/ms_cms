@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /manage/
+Disallow: /lib/
+Disallow: /theme/
